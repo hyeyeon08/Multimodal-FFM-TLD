@@ -17,8 +17,13 @@ We constructed the `Visible Light and Infrared Transmission Line Datset (VITLD)`
 
 
 ## Pre-trained Models
-UNet with Early Fusion (EF) method of our paper: 
+UNet [1] with Early Fusion (EF) method [2] of our paper: 
 - [Unet_original_4c](https://drive.google.com/file/d/1ni79hc3q24M9OSzc9FnXZ9WglqAS9QtZ/view?usp=sharing)
 
-UNet with proposed feature fusion module (FFM): 
+UNet [1] with proposed feature fusion module (FFM): 
 - [Unet_proposed](https://drive.google.com/file/d/1OnYrFX8vKbppSWvb6QpGGcLWikgjjly5/view?usp=sharing)
+
+
+## Reference
+[1] Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional networks for biomedical image segmentation." International Conference on Medical image computing and computer-assisted intervention. Springer, Cham, 2015.
+[2] Choi, Hyeyeon, et al. "Real-time power line detection network using visible light and infrared images." 2019 International Conference on Image and Vision Computing New Zealand (IVCNZ). IEEE, 2019.
