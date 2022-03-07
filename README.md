@@ -11,10 +11,13 @@ If you use this code, please cite the paper.
   pages={1-1},
   doi={10.1109/TII.2022.3147833}}
 ```
+
+Overall process of data collection and model inference:
 <p align="center">
-<img src= "https://user-images.githubusercontent.com/95326599/157011562-c610f14c-93a5-4c05-9c64-28c6719a3a7b.JPG" style="width:70%;>
+<img src= "overveiw.jpg" style="width:70%;>
 </p>
-                                                                                                                         
+
+                                
 ## Data set 
 We constructed the `Visible Light and Infrared Transmission Line Datset (VITLD)`. The dataset is available at [https://bit.ly/3FBYjBY](https://bit.ly/3FBYjBY).
 
