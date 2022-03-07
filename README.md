@@ -13,4 +13,4 @@ If you use this code, please cite the paper.
 ```
 
 ## Data set 
-We constructed the Visible Light and Infrared Transmission Line Datset (VITLD). The dataset is available at `[https://bit.ly/3FBYjBY](https://bit.ly/3FBYjBY)`
+We constructed the `Visible Light and Infrared Transmission Line Datset (VITLD)`. The dataset is available at [https://bit.ly/3FBYjBY](https://bit.ly/3FBYjBY).
