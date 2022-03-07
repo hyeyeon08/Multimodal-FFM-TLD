@@ -14,7 +14,7 @@ If you use this code, please cite the paper.
 
 Overall process of data collection and model inference:
 <p align="center">
-<img src= "overveiw.png" style="width:70%;">
+<img src= "overveiw.png" style="width:90%;">
 </p>
 
                                 
