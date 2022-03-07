@@ -33,4 +33,4 @@ UNet [1] with proposed feature fusion module (FFM):
 ## Reference
 [1] Ronneberger, Olaf, Philipp Fischer, and Thomas Brox. "U-net: Convolutional networks for biomedical image segmentation." International Conference on Medical image computing and computer-assisted intervention. Springer, Cham, 2015.
 
-[2] Choi, Hyeyeon, et al. "Real-time power line detection network using visible light and infrared images." 2019 International Conference on Image and Vision Computing New Zealand (IVCNZ). IEEE, 2019.
+[2] Choi, Hyeyeon, et al. "Real-time power line detection network using visible light and infrared images." International Conference on Image and Vision Computing New Zealand (IVCNZ). IEEE, 2019.
