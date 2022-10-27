@@ -3,13 +3,13 @@ This repository provides a PyTorch implementation of ["Attention-based Multimoda
 
 If you use this code, please cite the paper.
 ```
-@ARTICLE{9699431,
+@article{choi2022attention,
+  title={Attention-based Multimodal Image Feature Fusion Module for Transmission Line Detection},
   author={Choi, Hyeyeon and Yun, Jong Pil and Kim, Bum Jun and Jang, Hyeonah and Kim, Sang Woo},
-  journal={IEEE Transactions on Industrial Informatics}, 
-  title={Attention-based Multimodal Image Feature Fusion Module for Transmission Line Detection}, 
+  journal={IEEE Transactions on Industrial Informatics},
   year={2022},
-  pages={1-1},
-  doi={10.1109/TII.2022.3147833}}
+  publisher={IEEE}
+}
 ```
 
 Overall process of data collection and model inference:
